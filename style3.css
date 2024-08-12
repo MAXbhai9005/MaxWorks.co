@@ -1,0 +1,13 @@
+body {
+  background-image: url('https://indieground.net/wp-content/uploads/2023/03/Freebie-GradientTextures-Preview-02.jpg');
+  font-style: initial;
+  color: rgb(0, 0, 0);
+  background-color: rgb(0, 0, 0);
+  background-image: image();
+  text-align: left;
+  align-items: center;
+  color: rgb(255, 255, 255);
+  font-size: small;
+  padding: 0%;
+  color: 90 rgb(0, 0, 0);
+}
